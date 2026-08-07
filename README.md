@@ -15,7 +15,3 @@ Animated SVG network visualization
 Popular services included:
 
 Cloudflare
-
-github pages
-
-netlify
